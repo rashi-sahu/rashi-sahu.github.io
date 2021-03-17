@@ -4,7 +4,7 @@ title = "Rashi Sahu"
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
-googleAnalytics = "G-S8WTFHPC28"
+googleAnalytics = "UA-192420891-1"
 theme = "hugo-sustain"
 highlight = true
 
